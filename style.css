@@ -1,0 +1,29 @@
+body {
+  background-color: gray;
+}
+.outerlayer {
+  height: 50rem;
+  width: 33rem;
+  background-color: white;
+  position: absolute;
+  left: 40%;
+  top: 20%;
+  border-radius: 30px;
+}
+.imagee {
+  width: 28rem;
+  height: 30rem;
+  margin: auto;
+  position: absolute;
+  left: 40px;
+  top: 35px;
+  border-radius: 20px;
+}
+.writings {
+  position: absolute;
+  bottom: 100px;
+  left: 80px;
+  margin: auto;
+  text-align: center;
+  width: 70%;
+}
